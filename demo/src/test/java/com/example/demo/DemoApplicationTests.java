@@ -26,6 +26,8 @@ class DemoApplicationTests {
         List list2 = null;
         System.out.println(CollectionUtils.isNotEmpty(list2));
 
+        System.out.println(123);
+
     }
 
 }
