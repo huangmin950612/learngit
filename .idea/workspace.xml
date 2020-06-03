@@ -33,6 +33,7 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -60,9 +61,9 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RunManager" selected="Spring Boot.DemoApplication">
@@ -118,6 +119,7 @@
       <workItem from="1590739018461" duration="111000" />
       <workItem from="1590739152470" duration="158000" />
       <workItem from="1591171619035" duration="200000" />
+      <workItem from="1591171839552" duration="111000" />
     </task>
     <task id="LOCAL-00001" summary="完善项目">
       <created>1589962460800</created>
@@ -161,7 +163,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590739191758</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="test">
+      <created>1591171885150</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1591171885150</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -186,11 +195,12 @@
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="422" y="44" key="CommitChangelistDialog2" timestamp="1590739191600">
-      <screen x="0" y="23" width="1792" height="1017" />
+    <state x="422" y="44" key="CommitChangelistDialog2" timestamp="1591171885011">
+      <screen x="0" y="23" width="1792" height="1036" />
     </state>
     <state x="452" y="42" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1589963572075" />
     <state x="422" y="44" key="CommitChangelistDialog2/0.23.1792.1017@0.23.1792.1017" timestamp="1590739191600" />
+    <state x="422" y="44" key="CommitChangelistDialog2/0.23.1792.1036@0.23.1792.1036" timestamp="1591171885011" />
     <state x="672" y="141" key="FileChooserDialogImpl" timestamp="1590580876319">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -247,6 +257,14 @@
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
     <state width="1740" height="508" key="GridCell.Tab.2.right/0.23.1792.1017@0.23.1792.1017" timestamp="1590729263523" />
+    <state x="279" y="106" key="MergeDialog" timestamp="1591171917506">
+      <screen x="0" y="23" width="1792" height="1036" />
+    </state>
+    <state x="279" y="106" key="MergeDialog/0.23.1792.1036@0.23.1792.1036" timestamp="1591171917506" />
+    <state x="754" y="378" width="483" height="306" key="MultipleFileMergeDialog" timestamp="1591171921456">
+      <screen x="0" y="23" width="1792" height="1036" />
+    </state>
+    <state x="754" y="378" width="483" height="306" key="MultipleFileMergeDialog/0.23.1792.1036@0.23.1792.1036" timestamp="1591171921456" />
     <state x="496" y="176" key="NewModule_or_Project.wizard" timestamp="1590739087697">
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
@@ -255,20 +273,22 @@
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
     <state x="636" y="195" key="RollbackChangesDialog/0.23.1792.1017@0.23.1792.1017" timestamp="1590739047101" />
-    <state x="291" y="23" key="SettingsEditor" timestamp="1590739091937">
-      <screen x="0" y="23" width="1792" height="1017" />
+    <state x="291" y="23" width="1280" height="1036" key="SettingsEditor" timestamp="1591171950231">
+      <screen x="0" y="23" width="1792" height="1036" />
     </state>
     <state x="312" y="0" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1590580883752" />
     <state x="291" y="23" key="SettingsEditor/0.23.1792.1017@0.23.1792.1017" timestamp="1590739091937" />
+    <state x="291" y="23" width="1280" height="1036" key="SettingsEditor/0.23.1792.1036@0.23.1792.1036" timestamp="1591171950231" />
     <state x="795" y="416" key="VCS.ChangelistChooser" timestamp="1589963588085">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="795" y="416" key="VCS.ChangelistChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1589963588085" />
-    <state x="422" y="191" key="Vcs.Push.Dialog.v2" timestamp="1590739262442">
-      <screen x="0" y="23" width="1792" height="1017" />
+    <state x="422" y="194" key="Vcs.Push.Dialog.v2" timestamp="1591171892870">
+      <screen x="0" y="23" width="1792" height="1036" />
     </state>
     <state x="452" y="172" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1589962567449" />
     <state x="422" y="191" key="Vcs.Push.Dialog.v2/0.23.1792.1017@0.23.1792.1017" timestamp="1590739262442" />
+    <state x="422" y="194" key="Vcs.Push.Dialog.v2/0.23.1792.1036@0.23.1792.1036" timestamp="1591171892870" />
     <state x="659" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590739037598">
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
