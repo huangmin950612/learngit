@@ -19,20 +19,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f481084f-a798-4b45-8a17-50afcff21693" name="Default Changelist" comment="" />
-    <list id="7aed9bbf-c617-4e4b-9979-447b30fae31c" name="test" comment="test">
-      <change afterPath="$PROJECT_DIR$/.idea/learngit.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_tencent_sr_rmall_tx_order_common_1_0_0_SNAPSHOT.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_tencent_sr_rmall_tx_order_common_1_0_0_SNAPSHOT.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_tencent_sr_rmall_tx_order_service_interfaces_1_0_0_SNAPSHOT.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_tencent_sr_rmall_tx_order_service_interfaces_1_0_0_SNAPSHOT.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="f481084f-a798-4b45-8a17-50afcff21693" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/demo/src/test/java/com/example/demo/DemoApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/test/java/com/example/demo/DemoApplicationTests.java" afterDir="false" />
     </list>
-    <list id="22b47fac-05a2-41ee-ac71-05d911661706" name="test123" comment="" />
+    <list id="57b48aec-98cd-45b1-864d-a790b6dff85d" name="Revert &quot;test&quot;" comment="Revert &quot;test&quot;&#10;&#10;This reverts commit 02b2b6b4" />
+    <list id="8acad3cf-72ec-4741-b54a-c89fc86085d5" name="test" comment="" />
+    <list id="a238a89c-da5d-4255-8d21-18eabdc71456" name="test123" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,7 +37,7 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="RESET_MODE" value="MIXED" />
+    <option name="RESET_MODE" value="HARD" />
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MavenImportPreferences">
@@ -113,8 +105,10 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="f481084f-a798-4b45-8a17-50afcff21693" name="Default Changelist" comment="" />
-      <changelist id="7aed9bbf-c617-4e4b-9979-447b30fae31c" name="test" comment="" />
-      <changelist id="22b47fac-05a2-41ee-ac71-05d911661706" name="test123" comment="" />
+      <changelist id="" name="test" comment="" />
+      <changelist id="" name="test123" comment="" />
+      <changelist id="a238a89c-da5d-4255-8d21-18eabdc71456" name="test123" comment="" />
+      <changelist id="8acad3cf-72ec-4741-b54a-c89fc86085d5" name="test" comment="" />
       <created>1589961880230</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -134,7 +128,7 @@
       <workItem from="1590739018461" duration="111000" />
       <workItem from="1590739152470" duration="158000" />
       <workItem from="1591171619035" duration="200000" />
-      <workItem from="1591171839552" duration="447000" />
+      <workItem from="1591171839552" duration="1012000" />
     </task>
     <task id="LOCAL-00001" summary="完善项目">
       <created>1589962460800</created>
@@ -206,7 +200,28 @@
       <option name="project" value="LOCAL" />
       <updated>1591172088919</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="test">
+      <created>1591172311942</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1591172311942</updated>
+    </task>
+    <task id="LOCAL-00012" summary="test123">
+      <created>1591172385620</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1591172385620</updated>
+    </task>
+    <task id="LOCAL-00013" summary="test">
+      <created>1591172552370</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1591172552370</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -226,22 +241,23 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="完善项目" />
-    <MESSAGE value="test" />
     <MESSAGE value="test123" />
-    <option name="LAST_COMMIT_MESSAGE" value="test123" />
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="422" y="44" key="CommitChangelistDialog2" timestamp="1591172088791">
-      <screen x="0" y="23" width="1792" height="1036" />
+    <state x="422" y="23" width="949" height="1034" key="CommitChangelistDialog2" timestamp="1591172745778">
+      <screen x="0" y="23" width="1792" height="1034" />
     </state>
     <state x="452" y="42" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1589963572075" />
     <state x="422" y="44" key="CommitChangelistDialog2/0.23.1792.1017@0.23.1792.1017" timestamp="1590739191600" />
+    <state x="422" y="23" width="949" height="1034" key="CommitChangelistDialog2/0.23.1792.1034@0.23.1792.1034" timestamp="1591172745778" />
     <state x="422" y="44" key="CommitChangelistDialog2/0.23.1792.1036@0.23.1792.1036" timestamp="1591172088791" />
-    <state x="100" y="123" width="1592" height="817" key="DiffContextDialog" timestamp="1591172286953">
+    <state x="100" y="123" width="1592" height="817" key="DiffContextDialog" timestamp="1591172853764">
       <screen x="0" y="23" width="1792" height="1034" />
     </state>
-    <state x="100" y="123" width="1592" height="817" key="DiffContextDialog/0.23.1792.1034@0.23.1792.1034" timestamp="1591172286953" />
+    <state x="100" y="123" width="1592" height="817" key="DiffContextDialog/0.23.1792.1034@0.23.1792.1034" timestamp="1591172853764" />
     <state x="672" y="141" key="FileChooserDialogImpl" timestamp="1590580876319">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -302,9 +318,10 @@
       <screen x="0" y="23" width="1792" height="1036" />
     </state>
     <state x="279" y="106" key="MergeDialog/0.23.1792.1036@0.23.1792.1036" timestamp="1591171917506" />
-    <state x="754" y="378" width="483" height="306" key="MultipleFileMergeDialog" timestamp="1591171921456">
-      <screen x="0" y="23" width="1792" height="1036" />
+    <state x="754" y="377" width="483" height="306" key="MultipleFileMergeDialog" timestamp="1591172324584">
+      <screen x="0" y="23" width="1792" height="1034" />
     </state>
+    <state x="754" y="377" key="MultipleFileMergeDialog/0.23.1792.1034@0.23.1792.1034" timestamp="1591172324584" />
     <state x="754" y="378" width="483" height="306" key="MultipleFileMergeDialog/0.23.1792.1036@0.23.1792.1036" timestamp="1591171921456" />
     <state x="496" y="176" key="NewModule_or_Project.wizard" timestamp="1590739087697">
       <screen x="0" y="23" width="1792" height="1017" />
@@ -324,21 +341,23 @@
       <screen x="0" y="23" width="1792" height="1034" />
     </state>
     <state x="773" y="23" key="VCS.ChangeListViewerDialog/0.23.1792.1034@0.23.1792.1034" timestamp="1591172227084" />
-    <state x="742" y="437" key="VCS.ChangelistChooser" timestamp="1591172272896">
+    <state x="742" y="437" key="VCS.ChangelistChooser" timestamp="1591172728727">
       <screen x="0" y="23" width="1792" height="1034" />
     </state>
     <state x="795" y="416" key="VCS.ChangelistChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1589963588085" />
-    <state x="742" y="437" key="VCS.ChangelistChooser/0.23.1792.1034@0.23.1792.1034" timestamp="1591172272896" />
-    <state x="422" y="194" key="Vcs.Push.Dialog.v2" timestamp="1591172091057">
-      <screen x="0" y="23" width="1792" height="1036" />
+    <state x="742" y="437" key="VCS.ChangelistChooser/0.23.1792.1034@0.23.1792.1034" timestamp="1591172728727" />
+    <state x="422" y="194" key="Vcs.Push.Dialog.v2" timestamp="1591172818882">
+      <screen x="0" y="23" width="1792" height="1034" />
     </state>
     <state x="452" y="172" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1589962567449" />
     <state x="422" y="191" key="Vcs.Push.Dialog.v2/0.23.1792.1017@0.23.1792.1017" timestamp="1590739262442" />
+    <state x="422" y="194" key="Vcs.Push.Dialog.v2/0.23.1792.1034@0.23.1792.1034" timestamp="1591172818882" />
     <state x="422" y="194" key="Vcs.Push.Dialog.v2/0.23.1792.1036@0.23.1792.1036" timestamp="1591172091057" />
-    <state x="659" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590739037598">
-      <screen x="0" y="23" width="1792" height="1017" />
+    <state x="659" y="441" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1591172570389">
+      <screen x="0" y="23" width="1792" height="1034" />
     </state>
     <state x="659" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1792.1017@0.23.1792.1017" timestamp="1590739037598" />
+    <state x="659" y="441" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1792.1034@0.23.1792.1034" timestamp="1591172570389" />
     <state x="597" y="164" width="598" height="735" key="find.popup" timestamp="1590683548446">
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
