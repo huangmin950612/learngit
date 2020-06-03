@@ -23,6 +23,8 @@ class DemoApplicationTests {
         List list = new ArrayList<>();
         System.out.println(CollectionUtils.isNotEmpty(list));
 
+        List list2 = null;
+        System.out.println(CollectionUtils.isNotEmpty(list2));
     }
 
 }
