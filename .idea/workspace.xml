@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f481084f-a798-4b45-8a17-50afcff21693" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/demo/src/test/java/com/example/demo/DemoApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/test/java/com/example/demo/DemoApplicationTests.java" afterDir="false" />
-    </list>
+    <list default="true" id="f481084f-a798-4b45-8a17-50afcff21693" name="Default Changelist" comment="" />
     <list id="57b48aec-98cd-45b1-864d-a790b6dff85d" name="Revert &quot;test&quot;" comment="Revert &quot;test&quot;&#10;&#10;This reverts commit 02b2b6b4" />
     <list id="8acad3cf-72ec-4741-b54a-c89fc86085d5" name="test" comment="" />
     <list id="a238a89c-da5d-4255-8d21-18eabdc71456" name="test123" comment="" />
