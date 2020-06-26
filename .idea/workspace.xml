@@ -19,10 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f481084f-a798-4b45-8a17-50afcff21693" name="Default Changelist" comment="" />
-    <list id="57b48aec-98cd-45b1-864d-a790b6dff85d" name="Revert &quot;test&quot;" comment="Revert &quot;test&quot;&#10;&#10;This reverts commit 02b2b6b4" />
-    <list id="8acad3cf-72ec-4741-b54a-c89fc86085d5" name="test" comment="" />
-    <list id="a238a89c-da5d-4255-8d21-18eabdc71456" name="test123" comment="" />
+    <list default="true" id="f481084f-a798-4b45-8a17-50afcff21693" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/qaplug_profiles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/test/java/com/example/demo/DemoApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/test/java/com/example/demo/DemoApplicationTests.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,7 +37,6 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RESET_MODE" value="HARD" />
-    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -60,6 +60,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="TODO_SCOPE" value="All Places" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -105,8 +106,8 @@
       <changelist id="f481084f-a798-4b45-8a17-50afcff21693" name="Default Changelist" comment="" />
       <changelist id="" name="test" comment="" />
       <changelist id="" name="test123" comment="" />
-      <changelist id="a238a89c-da5d-4255-8d21-18eabdc71456" name="test123" comment="" />
-      <changelist id="8acad3cf-72ec-4741-b54a-c89fc86085d5" name="test" comment="" />
+      <changelist id="" name="test123" comment="" />
+      <changelist id="" name="test" comment="" />
       <created>1589961880230</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -224,6 +225,16 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -351,11 +362,16 @@
     <state x="422" y="191" key="Vcs.Push.Dialog.v2/0.23.1792.1017@0.23.1792.1017" timestamp="1590739262442" />
     <state x="422" y="194" key="Vcs.Push.Dialog.v2/0.23.1792.1034@0.23.1792.1034" timestamp="1591172818882" />
     <state x="422" y="194" key="Vcs.Push.Dialog.v2/0.23.1792.1036@0.23.1792.1036" timestamp="1591172091057" />
-    <state x="659" y="441" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1591172570389">
-      <screen x="0" y="23" width="1792" height="1034" />
+    <state x="100" y="123" width="1592" height="841" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1593168105173">
+      <screen x="0" y="23" width="1792" height="1041" />
+    </state>
+    <state x="100" y="123" width="1592" height="841" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1792.1041@0.23.1792.1041" timestamp="1593168105173" />
+    <state x="659" y="444" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1593168105150">
+      <screen x="0" y="23" width="1792" height="1041" />
     </state>
     <state x="659" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1792.1017@0.23.1792.1017" timestamp="1590739037598" />
     <state x="659" y="441" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1792.1034@0.23.1792.1034" timestamp="1591172570389" />
+    <state x="659" y="444" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1792.1041@0.23.1792.1041" timestamp="1593168105150" />
     <state x="597" y="164" width="598" height="735" key="find.popup" timestamp="1590683548446">
       <screen x="0" y="23" width="1792" height="1017" />
     </state>

@@ -29,4 +29,9 @@ class DemoApplicationTests {
 
     }
 
+    @Test
+    public void println2() {
+        System.out.println(1234);
+    }
+
 }
