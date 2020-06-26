@@ -34,4 +34,10 @@ class DemoApplicationTests {
         System.out.println(1234);
     }
 
+
+    @Test
+    public void println3() {
+        System.out.println(12345);
+    }
+
 }
