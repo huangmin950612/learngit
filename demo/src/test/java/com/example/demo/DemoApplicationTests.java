@@ -1,8 +1,8 @@
 package com.example.demo;
 
-import org.apache.commons.collections.CollectionUtils;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
+import org.springframework.util.CollectionUtils;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -21,10 +21,10 @@ class DemoApplicationTests {
 
     public static void main(String[] args) {
         List list = new ArrayList<>();
-        System.out.println(CollectionUtils.isNotEmpty(list));
+        System.out.println(CollectionUtils.isEmpty(list));
 
         List list2 = null;
-        System.out.println(CollectionUtils.isNotEmpty(list2));
+        System.out.println(CollectionUtils.isEmpty(list2));
     }
 
     @Test
